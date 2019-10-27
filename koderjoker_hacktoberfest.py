@@ -1,1 +1,1 @@
-print("Happy Hacktoberfest 2019!!")
+print("Happy Hacktoberfest 2019!")
