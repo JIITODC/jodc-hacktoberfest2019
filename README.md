@@ -27,6 +27,7 @@ Branch out by sending in pull requests for resolving issues labelled as "Hacktob
 
 [Google Dorks](https://github.com/cyber0786/Google-Dorks-2019)
 
+[Google Dorks Scanner](https://github.com/moriarity9211/Fast_Google_dork_scanner)
 [Gojin](https://github.com/weirdwiz/gojin/issues)
 
 OR
